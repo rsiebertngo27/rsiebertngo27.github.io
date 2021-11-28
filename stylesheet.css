@@ -155,12 +155,6 @@ section {
 .learnmore-links {
     text-decoration: none;
     color: black;
-    text-align: right!;
-}
-
-.learnmore-links:hover {
-    text-decoration: none;
-    color: lightblue;
 }
 
 .title {
