@@ -141,8 +141,10 @@ section {
     text-align: center;
 }
 
-.about-section {
-    text-align: center;
+.research-section {
+    text-align: right;
+    justify-content: center;
+    align-content: center;
 }
 
 .citations {
