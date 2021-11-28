@@ -154,12 +154,12 @@ section {
 
 .learnmore-links {
     text-decoration: none;
-    color: black
+    color: black;
 }
 
 .learnmore-links a:hover {
     text-decoration: none;
-    color: purple
+    color: purple;
 }
 
 .title {
