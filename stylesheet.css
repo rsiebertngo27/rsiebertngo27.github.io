@@ -79,7 +79,7 @@ h1 .element {
 }
 
 .nav ul ul li {
-    width: 150px;
+    width: 120px;
     float: none;
     display: list-item;
     position: relative;
@@ -155,11 +155,12 @@ section {
 .learnmore-links {
     text-decoration: none;
     color: black;
+    text-align: right!;
 }
 
-.learnmore-links a:hover {
+.learnmore-links:hover {
     text-decoration: none;
-    color: purple;
+    color: lightblue;
 }
 
 .title {
