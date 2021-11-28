@@ -83,6 +83,7 @@ h1 .element {
     float: none;
     display: list-item;
     position: relative;
+    font-size: 12px;
 }
 
 .nav ul ul li a {
