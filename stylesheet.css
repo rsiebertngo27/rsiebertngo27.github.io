@@ -136,6 +136,12 @@ article {
     text-align: center;
 }
 
+.nope-title {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 .nope {
     display: flex; 
     align-content: center;
@@ -143,8 +149,8 @@ article {
     border-radius: 35px;
     position: relative;
     margin: 3rem;
-    text-align: center;
-    width: 70%;
+    text-align: right;
+    width: 70vw;
     font-family: sans-serif;
 }
 
@@ -191,7 +197,7 @@ section {
 
 .video-title {
     font-size: 36px;
-    padding-top: 3%;
+    padding-top: 1%;
     color: black;
     font-family: sans-serif;
 }
@@ -199,4 +205,6 @@ section {
 iframe {
     border-radius: 12px;
     border: none;
+    margin-left: .25%;
+    margin-right: .25%;
 }
