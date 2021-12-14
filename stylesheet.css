@@ -43,8 +43,8 @@ article {
     border-radius: 35px;
     position: relative;
     margin: 5rem 1rem;
-    width: fit-content;
-    height: fit-content;
+    width:fit-content;
+    height: calc(fit-content + 3rem);
     text-align: center;
 }
 
