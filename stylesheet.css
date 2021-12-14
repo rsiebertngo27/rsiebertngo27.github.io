@@ -257,6 +257,7 @@ article {
     border-radius: 35px;
     position: relative;
     width: 100vw;
+    height: 100vh;
     aspect-ratio: 4/1;
     margin: auto;
     text-align: center;
@@ -269,7 +270,7 @@ article {
 }
 
 .feedback-stuffs a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: rgb(134, 81, 134);
 }
 
