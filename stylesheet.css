@@ -131,8 +131,8 @@ article {
 
 .hope-this-works {
     margin: 3%;
-    color: inherit;
-    visibility: none;
+    color:  #242323;
+    visibility: hidden;
 }
 
 .title {
@@ -178,8 +178,8 @@ article {
 .description {
     margin-left: 5%;
     margin-right: 5%;
-    padding-top: 1%;
-    padding-bottom: 2.5%
+    padding-top: .5rem;
+    padding-bottom: .5rem;
     position: relative;
     text-align: center;
     height: auto;
