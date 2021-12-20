@@ -131,7 +131,8 @@ article {
 
 .hope-this-works {
     margin: 3%;
-    color: #242323;
+    color: inherit;
+    visibility: none;
 }
 
 .title {
@@ -178,11 +179,10 @@ article {
     margin-left: 5%;
     margin-right: 5%;
     padding-top: 1%;
-    padding-bottom: 1rem;
-    padding-bottom: 2.5%;
+    padding-bottom: 2.5%
     position: relative;
     text-align: center;
-    height: 2rem;
+    height: auto;
     overflow: auto;
     color: rgb(241, 243, 230);
     font-family: sans-serif;
